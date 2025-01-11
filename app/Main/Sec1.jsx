@@ -1,9 +1,9 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-import pic1 from "../../public/imgs/welcome_image6181.jpeg";
-import pic2 from "../../public/forms/swqq.PNG";
-import pic3 from "../../public/forms/arrows.PNG";
+import pic1 from "imgs/welcome_image6181.jpeg";
+import pic2 from "forms/swqq.PNG";
+import pic3 from "forms/arrows.PNG";
 import { motion } from "framer-motion";
 
 function Sec1() {
